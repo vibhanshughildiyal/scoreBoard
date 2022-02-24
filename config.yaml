@@ -1,0 +1,6 @@
+Storage:
+  Postgres:
+    DNS: "postgres://vibhanshughildiyal:sunitaramesh@0802@localhost:5432/postgres"
+Amqp:
+  Url: "amqps://sdnrnqbh:Cj3dhRjtMXXUxdR1auUtDqe3rcj7sMbS@puffin.rmq2.cloudamqp.com/sdnrnqbh"
+  ChannelName: "score"
